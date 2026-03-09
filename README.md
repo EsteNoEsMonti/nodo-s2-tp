@@ -26,7 +26,7 @@ El código debe organizarse en **componentes reutilizables**. Si quieres puedes 
  │   ├── MovieList.jsx
  │   ├── Header.jsx
  │   └── Button.jsx
- ├── pages
+ ├── pages (la caperta pages deberia estar dentro de components -> /src/components/pages/Home.jsx
  │   ├── Home.jsx
  ├── hooks
  │   ├── useWatchlist.js
